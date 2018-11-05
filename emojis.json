@@ -1206,9 +1206,7 @@
     },
     "name": "ogre",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -18701,9 +18699,7 @@
     },
     "name": "cricket",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "food",
@@ -20039,9 +20035,7 @@
     },
     "name": "chopsticks",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "food",
@@ -20052,9 +20046,7 @@
     },
     "name": "bowl with spoon",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "food",
@@ -20065,9 +20057,7 @@
     },
     "name": "cup with straw",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "food",
@@ -20105,9 +20095,7 @@
     },
     "name": "pie",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "food",
@@ -20118,9 +20106,7 @@
     },
     "name": "pretzel",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "food",
@@ -24551,9 +24537,7 @@
     },
     "name": "sled",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "activity",
@@ -24593,9 +24577,7 @@
     },
     "name": "person in steamy room",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "activity",
@@ -24619,9 +24601,7 @@
     },
     "name": "person in lotus position",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "activity",
@@ -37474,9 +37454,7 @@
     },
     "name": "asterisk",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37487,9 +37465,7 @@
     },
     "name": "regional indicator symbol letter z",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37500,9 +37476,7 @@
     },
     "name": "regional indicator symbol letter y",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37513,9 +37487,7 @@
     },
     "name": "regional indicator symbol letter x",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37526,9 +37498,7 @@
     },
     "name": "pound symbol",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "modifier",
@@ -37539,9 +37509,7 @@
     },
     "name": "light skin tone",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "modifier",
@@ -37552,9 +37520,7 @@
     },
     "name": "medium-light skin tone",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "modifier",
@@ -37565,9 +37531,7 @@
     },
     "name": "medium skin tone",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "modifier",
@@ -37578,9 +37542,7 @@
     },
     "name": "medium-dark skin tone",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "modifier",
@@ -37591,9 +37553,7 @@
     },
     "name": "dark skin tone",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37604,9 +37564,7 @@
     },
     "name": "regional indicator symbol letter w",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37617,9 +37575,7 @@
     },
     "name": "regional indicator symbol letter v",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37630,9 +37586,7 @@
     },
     "name": "regional indicator symbol letter u",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37643,9 +37597,7 @@
     },
     "name": "regional indicator symbol letter t",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37656,9 +37608,7 @@
     },
     "name": "regional indicator symbol letter s",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37669,9 +37619,7 @@
     },
     "name": "regional indicator symbol letter r",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37682,9 +37630,7 @@
     },
     "name": "regional indicator symbol letter q",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37695,9 +37641,7 @@
     },
     "name": "regional indicator symbol letter p",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37708,9 +37652,7 @@
     },
     "name": "regional indicator symbol letter o",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37721,9 +37663,7 @@
     },
     "name": "regional indicator symbol letter n",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37734,9 +37674,7 @@
     },
     "name": "regional indicator symbol letter m",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37747,9 +37685,7 @@
     },
     "name": "regional indicator symbol letter l",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37760,9 +37696,7 @@
     },
     "name": "regional indicator symbol letter k",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37773,9 +37707,7 @@
     },
     "name": "regional indicator symbol letter j",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37786,9 +37718,7 @@
     },
     "name": "regional indicator symbol letter i",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37799,9 +37729,7 @@
     },
     "name": "regional indicator symbol letter h",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37812,9 +37740,7 @@
     },
     "name": "regional indicator symbol letter g",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37825,9 +37751,7 @@
     },
     "name": "regional indicator symbol letter f",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37838,9 +37762,7 @@
     },
     "name": "regional indicator symbol letter e",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37851,9 +37773,7 @@
     },
     "name": "regional indicator symbol letter d",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37864,9 +37784,7 @@
     },
     "name": "regional indicator symbol letter c",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37877,9 +37795,7 @@
     },
     "name": "regional indicator symbol letter b",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "regional",
@@ -37890,9 +37806,7 @@
     },
     "name": "regional indicator symbol letter a",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37903,9 +37817,7 @@
     },
     "name": "digit nine",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37916,9 +37828,7 @@
     },
     "name": "digit eight",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37929,9 +37839,7 @@
     },
     "name": "digit seven",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37942,9 +37850,7 @@
     },
     "name": "digit six",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37955,9 +37861,7 @@
     },
     "name": "digit five",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37968,9 +37872,7 @@
     },
     "name": "digit four",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37981,9 +37883,7 @@
     },
     "name": "digit three",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -37994,9 +37894,7 @@
     },
     "name": "digit two",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -38007,9 +37905,7 @@
     },
     "name": "digit one",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "symbols",
@@ -38020,9 +37916,7 @@
     },
     "name": "digit zero",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38126,9 +38020,7 @@
     },
     "name": "face with raised eyebrow",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38139,9 +38031,7 @@
     },
     "name": "star-struck",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38181,9 +38071,7 @@
     },
     "name": "face with symbols over mouth",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38194,9 +38082,7 @@
     },
     "name": "face with hand over mouth",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38234,9 +38120,7 @@
     },
     "name": "face with monocle",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38247,9 +38131,7 @@
     },
     "name": "adult",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38260,9 +38142,7 @@
     },
     "name": "child",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38273,9 +38153,7 @@
     },
     "name": "older adult",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38286,9 +38164,7 @@
     },
     "name": "bearded person",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38299,9 +38175,7 @@
     },
     "name": "woman with headscarf",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38398,9 +38272,7 @@
     },
     "name": "elf",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38411,9 +38283,7 @@
     },
     "name": "genie",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38424,9 +38294,7 @@
     },
     "name": "zombie",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
@@ -38578,9 +38446,7 @@
     },
     "name": "palms up together",
     "skinTone": false,
-    "tags": [
-      ""
-    ]
+    "tags": []
   },
   {
     "category": "people",
