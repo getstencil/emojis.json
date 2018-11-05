@@ -1206,7 +1206,14 @@
     },
     "name": "ogre",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "creature",
+      "face",
+      "fairy tale",
+      "fantasy",
+      "monster",
+      "troll"
+    ]
   },
   {
     "category": "people",
@@ -2850,7 +2857,7 @@
     "skinTone": false,
     "tags": [
       "hand",
-      "OK"
+      "ok"
     ]
   },
   {
@@ -2864,8 +2871,8 @@
     "skinTone": "light skin tone",
     "tags": [
       "hand",
-      "OK",
-      "OK hand"
+      "ok",
+      "ok hand"
     ]
   },
   {
@@ -2879,8 +2886,8 @@
     "skinTone": "medium-light skin tone",
     "tags": [
       "hand",
-      "OK",
-      "OK hand"
+      "ok",
+      "ok hand"
     ]
   },
   {
@@ -2894,8 +2901,8 @@
     "skinTone": "medium skin tone",
     "tags": [
       "hand",
-      "OK",
-      "OK hand"
+      "ok",
+      "ok hand"
     ]
   },
   {
@@ -2909,8 +2916,8 @@
     "skinTone": "medium-dark skin tone",
     "tags": [
       "hand",
-      "OK",
-      "OK hand"
+      "ok",
+      "ok hand"
     ]
   },
   {
@@ -2924,8 +2931,8 @@
     "skinTone": "dark skin tone",
     "tags": [
       "hand",
-      "OK",
-      "OK hand"
+      "ok",
+      "ok hand"
     ]
   },
   {
@@ -5000,7 +5007,7 @@
     "tags": [
       "zodiac",
       "young",
-      "Virgo"
+      "virgo"
     ]
   },
   {
@@ -5015,7 +5022,7 @@
     "tags": [
       "zodiac",
       "young",
-      "Virgo",
+      "virgo",
       "girl"
     ]
   },
@@ -5031,7 +5038,7 @@
     "tags": [
       "zodiac",
       "young",
-      "Virgo",
+      "virgo",
       "girl"
     ]
   },
@@ -5047,7 +5054,7 @@
     "tags": [
       "zodiac",
       "young",
-      "Virgo",
+      "virgo",
       "girl"
     ]
   },
@@ -5063,7 +5070,7 @@
     "tags": [
       "zodiac",
       "young",
-      "Virgo",
+      "virgo",
       "girl"
     ]
   },
@@ -5079,7 +5086,7 @@
     "tags": [
       "zodiac",
       "young",
-      "Virgo",
+      "virgo",
       "girl"
     ]
   },
@@ -5702,7 +5709,7 @@
       "man",
       "hat",
       "gua pi mao",
-      "man with Chinese cap"
+      "man with chinese cap"
     ]
   },
   {
@@ -5718,7 +5725,7 @@
       "man",
       "hat",
       "gua pi mao",
-      "man with Chinese cap"
+      "man with chinese cap"
     ]
   },
   {
@@ -5734,7 +5741,7 @@
       "man",
       "hat",
       "gua pi mao",
-      "man with Chinese cap"
+      "man with chinese cap"
     ]
   },
   {
@@ -5750,7 +5757,7 @@
       "man",
       "hat",
       "gua pi mao",
-      "man with Chinese cap"
+      "man with chinese cap"
     ]
   },
   {
@@ -5766,7 +5773,7 @@
       "man",
       "hat",
       "gua pi mao",
-      "man with Chinese cap"
+      "man with chinese cap"
     ]
   },
   {
@@ -10462,8 +10469,8 @@
       "mother",
       "claus",
       "celebration",
-      "Mrs.",
-      "Christmas"
+      "mrs.",
+      "christmas"
     ]
   },
   {
@@ -10479,9 +10486,9 @@
       "mother",
       "claus",
       "celebration",
-      "Mrs.",
-      "Christmas",
-      "Mrs. Claus"
+      "mrs.",
+      "christmas",
+      "mrs. claus"
     ]
   },
   {
@@ -10497,9 +10504,9 @@
       "mother",
       "claus",
       "celebration",
-      "Mrs.",
-      "Christmas",
-      "Mrs. Claus"
+      "mrs.",
+      "christmas",
+      "mrs. claus"
     ]
   },
   {
@@ -10515,9 +10522,9 @@
       "mother",
       "claus",
       "celebration",
-      "Mrs.",
-      "Christmas",
-      "Mrs. Claus"
+      "mrs.",
+      "christmas",
+      "mrs. claus"
     ]
   },
   {
@@ -10533,9 +10540,9 @@
       "mother",
       "claus",
       "celebration",
-      "Mrs.",
-      "Christmas",
-      "Mrs. Claus"
+      "mrs.",
+      "christmas",
+      "mrs. claus"
     ]
   },
   {
@@ -10551,9 +10558,9 @@
       "mother",
       "claus",
       "celebration",
-      "Mrs.",
-      "Christmas",
-      "Mrs. Claus"
+      "mrs.",
+      "christmas",
+      "mrs. claus"
     ]
   },
   {
@@ -10570,7 +10577,7 @@
       "father",
       "claus",
       "celebration",
-      "Christmas"
+      "christmas"
     ]
   },
   {
@@ -10587,8 +10594,8 @@
       "father",
       "claus",
       "celebration",
-      "Christmas",
-      "Santa Claus"
+      "christmas",
+      "santa claus"
     ]
   },
   {
@@ -10605,8 +10612,8 @@
       "father",
       "claus",
       "celebration",
-      "Christmas",
-      "Santa Claus"
+      "christmas",
+      "santa claus"
     ]
   },
   {
@@ -10623,8 +10630,8 @@
       "father",
       "claus",
       "celebration",
-      "Christmas",
-      "Santa Claus"
+      "christmas",
+      "santa claus"
     ]
   },
   {
@@ -10641,8 +10648,8 @@
       "father",
       "claus",
       "celebration",
-      "Christmas",
-      "Santa Claus"
+      "christmas",
+      "santa claus"
     ]
   },
   {
@@ -10659,8 +10666,8 @@
       "father",
       "claus",
       "celebration",
-      "Christmas",
-      "Santa Claus"
+      "christmas",
+      "santa claus"
     ]
   },
   {
@@ -11872,7 +11879,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "person gesturing NO"
+      "person gesturing no"
     ]
   },
   {
@@ -11891,7 +11898,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "person gesturing NO"
+      "person gesturing no"
     ]
   },
   {
@@ -11910,7 +11917,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "person gesturing NO"
+      "person gesturing no"
     ]
   },
   {
@@ -11929,7 +11936,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "person gesturing NO"
+      "person gesturing no"
     ]
   },
   {
@@ -11948,7 +11955,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "person gesturing NO"
+      "person gesturing no"
     ]
   },
   {
@@ -11985,7 +11992,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "man gesturing NO"
+      "man gesturing no"
     ]
   },
   {
@@ -12004,7 +12011,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "man gesturing NO"
+      "man gesturing no"
     ]
   },
   {
@@ -12023,7 +12030,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "man gesturing NO"
+      "man gesturing no"
     ]
   },
   {
@@ -12042,7 +12049,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "man gesturing NO"
+      "man gesturing no"
     ]
   },
   {
@@ -12061,7 +12068,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "man gesturing NO"
+      "man gesturing no"
     ]
   },
   {
@@ -12098,7 +12105,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "woman gesturing NO"
+      "woman gesturing no"
     ]
   },
   {
@@ -12117,7 +12124,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "woman gesturing NO"
+      "woman gesturing no"
     ]
   },
   {
@@ -12136,7 +12143,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "woman gesturing NO"
+      "woman gesturing no"
     ]
   },
   {
@@ -12155,7 +12162,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "woman gesturing NO"
+      "woman gesturing no"
     ]
   },
   {
@@ -12174,7 +12181,7 @@
       "hand",
       "gesture",
       "forbidden",
-      "woman gesturing NO"
+      "woman gesturing no"
     ]
   },
   {
@@ -12189,7 +12196,7 @@
     "tags": [
       "hand",
       "gesture",
-      "OK"
+      "ok"
     ]
   },
   {
@@ -12204,8 +12211,8 @@
     "tags": [
       "hand",
       "gesture",
-      "OK",
-      "person gesturing OK"
+      "ok",
+      "person gesturing ok"
     ]
   },
   {
@@ -12220,8 +12227,8 @@
     "tags": [
       "hand",
       "gesture",
-      "OK",
-      "person gesturing OK"
+      "ok",
+      "person gesturing ok"
     ]
   },
   {
@@ -12236,8 +12243,8 @@
     "tags": [
       "hand",
       "gesture",
-      "OK",
-      "person gesturing OK"
+      "ok",
+      "person gesturing ok"
     ]
   },
   {
@@ -12252,8 +12259,8 @@
     "tags": [
       "hand",
       "gesture",
-      "OK",
-      "person gesturing OK"
+      "ok",
+      "person gesturing ok"
     ]
   },
   {
@@ -12268,8 +12275,8 @@
     "tags": [
       "hand",
       "gesture",
-      "OK",
-      "person gesturing OK"
+      "ok",
+      "person gesturing ok"
     ]
   },
   {
@@ -12285,7 +12292,7 @@
       "man",
       "hand",
       "gesture",
-      "OK"
+      "ok"
     ]
   },
   {
@@ -12301,8 +12308,8 @@
       "man",
       "hand",
       "gesture",
-      "OK",
-      "man gesturing OK"
+      "ok",
+      "man gesturing ok"
     ]
   },
   {
@@ -12318,8 +12325,8 @@
       "man",
       "hand",
       "gesture",
-      "OK",
-      "man gesturing OK"
+      "ok",
+      "man gesturing ok"
     ]
   },
   {
@@ -12335,8 +12342,8 @@
       "man",
       "hand",
       "gesture",
-      "OK",
-      "man gesturing OK"
+      "ok",
+      "man gesturing ok"
     ]
   },
   {
@@ -12352,8 +12359,8 @@
       "man",
       "hand",
       "gesture",
-      "OK",
-      "man gesturing OK"
+      "ok",
+      "man gesturing ok"
     ]
   },
   {
@@ -12369,8 +12376,8 @@
       "man",
       "hand",
       "gesture",
-      "OK",
-      "man gesturing OK"
+      "ok",
+      "man gesturing ok"
     ]
   },
   {
@@ -12386,7 +12393,7 @@
       "woman",
       "hand",
       "gesture",
-      "OK"
+      "ok"
     ]
   },
   {
@@ -12402,8 +12409,8 @@
       "woman",
       "hand",
       "gesture",
-      "OK",
-      "woman gesturing OK"
+      "ok",
+      "woman gesturing ok"
     ]
   },
   {
@@ -12419,8 +12426,8 @@
       "woman",
       "hand",
       "gesture",
-      "OK",
-      "woman gesturing OK"
+      "ok",
+      "woman gesturing ok"
     ]
   },
   {
@@ -12436,8 +12443,8 @@
       "woman",
       "hand",
       "gesture",
-      "OK",
-      "woman gesturing OK"
+      "ok",
+      "woman gesturing ok"
     ]
   },
   {
@@ -12453,8 +12460,8 @@
       "woman",
       "hand",
       "gesture",
-      "OK",
-      "woman gesturing OK"
+      "ok",
+      "woman gesturing ok"
     ]
   },
   {
@@ -12470,8 +12477,8 @@
       "woman",
       "hand",
       "gesture",
-      "OK",
-      "woman gesturing OK"
+      "ok",
+      "woman gesturing ok"
     ]
   },
   {
@@ -15450,7 +15457,7 @@
       "hold",
       "hand",
       "couple",
-      "Gemini"
+      "gemini"
     ]
   },
   {
@@ -16004,7 +16011,8 @@
     "name": "necktie",
     "skinTone": false,
     "tags": [
-      "clothing"
+      "clothing",
+      "tie"
     ]
   },
   {
@@ -16218,7 +16226,8 @@
     "tags": [
       "school",
       "satchel",
-      "bag"
+      "bag",
+      "rucksack"
     ]
   },
   {
@@ -16503,7 +16512,7 @@
       "zodiac",
       "lion",
       "face",
-      "Leo"
+      "leo"
     ]
   },
   {
@@ -17009,7 +17018,7 @@
       "zodiac",
       "serpent",
       "bearer",
-      "Ophiuchus"
+      "ophiuchus"
     ]
   },
   {
@@ -17037,7 +17046,7 @@
     "tags": [
       "zodiac",
       "scorpio",
-      "Scorpius"
+      "scorpius"
     ]
   },
   {
@@ -17051,7 +17060,7 @@
     "skinTone": false,
     "tags": [
       "zodiac",
-      "Cancer"
+      "cancer"
     ]
   },
   {
@@ -17119,7 +17128,7 @@
     "skinTone": false,
     "tags": [
       "zodiac",
-      "Pisces"
+      "pisces"
     ]
   },
   {
@@ -17246,7 +17255,7 @@
     "tags": [
       "zodiac",
       "bull",
-      "Taurus"
+      "taurus"
     ]
   },
   {
@@ -17376,7 +17385,7 @@
     "skinTone": false,
     "tags": [
       "zodiac",
-      "Capricorn"
+      "capricorn"
     ]
   },
   {
@@ -17393,7 +17402,7 @@
       "zodiac",
       "sheep",
       "male",
-      "Aries"
+      "aries"
     ]
   },
   {
@@ -17548,7 +17557,9 @@
     },
     "name": "chipmunk",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "squirrel"
+    ]
   },
   {
     "category": "nature",
@@ -17618,7 +17629,7 @@
     "tags": [
       "tree",
       "celebration",
-      "Christmas"
+      "christmas"
     ]
   },
   {
@@ -17715,7 +17726,8 @@
       "leaf",
       "four",
       "clover",
-      "4"
+      "4",
+      "four-leaf clover"
     ]
   },
   {
@@ -17731,7 +17743,7 @@
       "pine",
       "celebration",
       "bamboo",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -17747,7 +17759,7 @@
       "tree",
       "celebration",
       "banner",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -17944,7 +17956,7 @@
       "world",
       "globe",
       "earth",
-      "Americas"
+      "americas"
     ]
   },
   {
@@ -17960,8 +17972,8 @@
       "world",
       "globe",
       "earth",
-      "Europe",
-      "Africa"
+      "europe",
+      "africa"
     ]
   },
   {
@@ -17977,8 +17989,8 @@
       "world",
       "globe",
       "earth",
-      "Australia",
-      "Asia"
+      "australia",
+      "asia"
     ]
   },
   {
@@ -18687,7 +18699,7 @@
     "name": "T-Rex",
     "skinTone": false,
     "tags": [
-      "Tyrannosaurus Rex"
+      "tyrannosaurus rex"
     ]
   },
   {
@@ -18699,7 +18711,10 @@
     },
     "name": "cricket",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "grasshopper",
+      "orthoptera"
+    ]
   },
   {
     "category": "food",
@@ -18850,7 +18865,9 @@
     "skinTone": false,
     "tags": [
       "fruit",
-      "cherry"
+      "cherry",
+      "berries",
+      "red"
     ]
   },
   {
@@ -19214,7 +19231,8 @@
       "poultry",
       "leg",
       "chicken",
-      "bone"
+      "bone",
+      "drumstick"
     ]
   },
   {
@@ -19474,7 +19492,7 @@
     "tags": [
       "rice",
       "ball",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -19535,7 +19553,7 @@
       "stick",
       "skewer",
       "dessert",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -19964,7 +19982,8 @@
     "tags": [
       "knife",
       "fork",
-      "cooking"
+      "cooking",
+      "cutlery"
     ]
   },
   {
@@ -20035,7 +20054,11 @@
     },
     "name": "chopsticks",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "hashi",
+      "jeotgarak",
+      "kuaizi"
+    ]
   },
   {
     "category": "food",
@@ -20046,7 +20069,13 @@
     },
     "name": "bowl with spoon",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "breakfast",
+      "cereal",
+      "congee",
+      "oatmeal",
+      "porridge"
+    ]
   },
   {
     "category": "food",
@@ -20057,7 +20086,13 @@
     },
     "name": "cup with straw",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "juice",
+      "soda",
+      "malt",
+      "soft drink",
+      "water"
+    ]
   },
   {
     "category": "food",
@@ -20095,7 +20130,12 @@
     },
     "name": "pie",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "filling",
+      "pastry",
+      "fruit",
+      "meat"
+    ]
   },
   {
     "category": "food",
@@ -20106,7 +20146,10 @@
     },
     "name": "pretzel",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "twisted",
+      "convoluted"
+    ]
   },
   {
     "category": "food",
@@ -20399,7 +20442,7 @@
       "arrow",
       "archery",
       "archer",
-      "Sagittarius"
+      "sagittarius"
     ]
   },
   {
@@ -20474,7 +20517,6 @@
       "snow",
       "sports",
       "sport",
-      "snow",
       "ski"
     ]
   },
@@ -20491,7 +20533,6 @@
       "snow",
       "sports",
       "sport",
-      "snow",
       "ski"
     ]
   },
@@ -20509,7 +20550,6 @@
       "sports",
       "sport",
       "snowboard",
-      "snow",
       "ski"
     ]
   },
@@ -20527,7 +20567,6 @@
       "sports",
       "sport",
       "snowboard",
-      "snow",
       "ski",
       "snowboarder"
     ]
@@ -20546,7 +20585,6 @@
       "sports",
       "sport",
       "snowboard",
-      "snow",
       "ski",
       "snowboarder"
     ]
@@ -20565,7 +20603,6 @@
       "sports",
       "sport",
       "snowboard",
-      "snow",
       "ski",
       "snowboarder"
     ]
@@ -20584,7 +20621,6 @@
       "sports",
       "sport",
       "snowboard",
-      "snow",
       "ski",
       "snowboarder"
     ]
@@ -20603,7 +20639,6 @@
       "sports",
       "sport",
       "snowboard",
-      "snow",
       "ski",
       "snowboarder"
     ]
@@ -24537,7 +24572,12 @@
     },
     "name": "sled",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "sledge",
+      "sleigh",
+      "luge",
+      "toboggan"
+    ]
   },
   {
     "category": "activity",
@@ -24577,7 +24617,12 @@
     },
     "name": "person in steamy room",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "sauna",
+      "steam room",
+      "hamam",
+      "steambath"
+    ]
   },
   {
     "category": "activity",
@@ -24601,7 +24646,11 @@
     },
     "name": "person in lotus position",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "meditation",
+      "yoga",
+      "serenity"
+    ]
   },
   {
     "category": "activity",
@@ -26208,7 +26257,8 @@
       "pump",
       "gas",
       "fuelpump",
-      "fuel"
+      "fuel",
+      "diesel"
     ]
   },
   {
@@ -26321,7 +26371,7 @@
     "skinTone": false,
     "tags": [
       "tower",
-      "Tokyo"
+      "tokyo"
     ]
   },
   {
@@ -26334,7 +26384,7 @@
     "name": "castle",
     "skinTone": false,
     "tags": [
-      "European"
+      "european"
     ]
   },
   {
@@ -26348,7 +26398,7 @@
     "skinTone": false,
     "tags": [
       "castle",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -26683,7 +26733,7 @@
     "skinTone": false,
     "tags": [
       "post",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -26697,7 +26747,7 @@
     "skinTone": false,
     "tags": [
       "post",
-      "European"
+      "european"
     ]
   },
   {
@@ -26820,7 +26870,7 @@
     "tags": [
       "religion",
       "cross",
-      "Christian"
+      "christian"
     ]
   },
   {
@@ -26835,7 +26885,7 @@
     "tags": [
       "religion",
       "islam",
-      "Muslim"
+      "muslim"
     ]
   },
   {
@@ -26850,8 +26900,8 @@
     "tags": [
       "temple",
       "religion",
-      "Jewish",
-      "Jew"
+      "jewish",
+      "jew"
     ]
   },
   {
@@ -26866,7 +26916,7 @@
     "tags": [
       "religion",
       "islam",
-      "Muslim"
+      "muslim"
     ]
   },
   {
@@ -26895,7 +26945,7 @@
     "skinTone": false,
     "tags": [
       "map",
-      "Japan"
+      "japan"
     ]
   },
   {
@@ -27108,7 +27158,7 @@
     "name": "flying saucer",
     "skinTone": false,
     "tags": [
-      "UFO"
+      "ufo"
     ]
   },
   {
@@ -27930,7 +27980,7 @@
       "scales",
       "justice",
       "balance",
-      "Libra"
+      "libra"
     ]
   },
   {
@@ -28030,7 +28080,9 @@
     "name": "gear",
     "skinTone": false,
     "tags": [
-      "tool"
+      "tool",
+      "cog",
+      "cogwheel"
     ]
   },
   {
@@ -28197,7 +28249,7 @@
       "jug",
       "drink",
       "cooking",
-      "Aquarius"
+      "aquarius"
     ]
   },
   {
@@ -28813,7 +28865,7 @@
       "festival",
       "doll",
       "celebration",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30092,7 +30144,7 @@
     "tags": [
       "religion",
       "cross",
-      "Christian"
+      "christian"
     ]
   },
   {
@@ -30107,7 +30159,7 @@
     "tags": [
       "religion",
       "islam",
-      "Muslim"
+      "muslim"
     ]
   },
   {
@@ -30121,7 +30173,7 @@
     "skinTone": false,
     "tags": [
       "religion",
-      "Hindu"
+      "hindu"
     ]
   },
   {
@@ -30137,7 +30189,7 @@
       "wheel",
       "religion",
       "dharma",
-      "Buddhist"
+      "buddhist"
     ]
   },
   {
@@ -30152,9 +30204,9 @@
     "tags": [
       "star",
       "religion",
-      "Jewish",
-      "Jew",
-      "David"
+      "jewish",
+      "jew",
+      "david"
     ]
   },
   {
@@ -30215,7 +30267,7 @@
     "tags": [
       "religion",
       "cross",
-      "Christian"
+      "christian"
     ]
   },
   {
@@ -30361,7 +30413,8 @@
     "tags": [
       "zodiac",
       "scorpion",
-      "scorpio"
+      "scorpio",
+      "scorpius"
     ]
   },
   {
@@ -30462,7 +30515,7 @@
       "可",
       "“acceptable”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30539,7 +30592,7 @@
       "有",
       "“not free of charge”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30555,7 +30608,7 @@
       "無",
       "“free of charge”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30571,7 +30624,7 @@
       "申",
       "“application”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30587,7 +30640,7 @@
       "営",
       "“open for business”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30603,7 +30656,7 @@
       "月",
       "“monthly amount”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30659,7 +30712,7 @@
       "得",
       "“bargain”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30675,7 +30728,7 @@
       "秘",
       "“secret”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30691,7 +30744,7 @@
       "祝",
       "“congratulations”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30707,7 +30760,7 @@
       "合",
       "“passing grade”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30723,7 +30776,7 @@
       "満",
       "“no vacancy”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30739,7 +30792,7 @@
       "割",
       "“discount”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -30755,7 +30808,7 @@
       "禁",
       "“prohibited”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -31315,7 +31368,7 @@
       "green",
       "chevron",
       "beginner",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -31358,7 +31411,7 @@
       "指",
       "“reserved”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -31482,7 +31535,8 @@
     "tags": [
       "typhoon",
       "twister",
-      "dizzy"
+      "dizzy",
+      "hurricane"
     ]
   },
   {
@@ -31571,7 +31625,7 @@
       "空",
       "“vacancy”",
       "ideograph",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -31587,7 +31641,7 @@
       "サ",
       "“service charge”",
       "katakana",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -31701,7 +31755,7 @@
     "skinTone": false,
     "tags": [
       "lavatory",
-      "WC"
+      "wc"
     ]
   },
   {
@@ -31765,7 +31819,7 @@
       "ココ",
       "“here”",
       "katakana",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -31779,7 +31833,8 @@
     "skinTone": false,
     "tags": [
       "〒♪&%",
-      "input"
+      "input",
+      "〒♪&%"
     ]
   },
   {
@@ -31843,7 +31898,7 @@
       "letters",
       "latin",
       "input",
-      "ABCD"
+      "abcd"
     ]
   },
   {
@@ -31869,7 +31924,7 @@
     "name": "OK button",
     "skinTone": false,
     "tags": [
-      "OK"
+      "ok"
     ]
   },
   {
@@ -32074,7 +32129,9 @@
     },
     "name": "keycap 10",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "keycap"
+    ]
   },
   {
     "category": "symbols",
@@ -33519,7 +33576,7 @@
       "game",
       "flower",
       "card",
-      "Japanese"
+      "japanese"
     ]
   },
   {
@@ -33979,7 +34036,8 @@
     "name": "white flag",
     "skinTone": false,
     "tags": [
-      "waving"
+      "waving",
+      "white flag"
     ]
   },
   {
@@ -33992,7 +34050,8 @@
     "name": "black flag",
     "skinTone": false,
     "tags": [
-      "waving"
+      "waving",
+      "black flag"
     ]
   },
   {
@@ -34007,7 +34066,8 @@
     "tags": [
       "racing",
       "chequered",
-      "checkered"
+      "checkered",
+      "chequered flag"
     ]
   },
   {
@@ -34020,7 +34080,8 @@
     "name": "triangular flag",
     "skinTone": false,
     "tags": [
-      "post"
+      "post",
+      "triangular flag"
     ]
   },
   {
@@ -34033,7 +34094,8 @@
     "name": "rainbow flag",
     "skinTone": false,
     "tags": [
-      "rainbow"
+      "rainbow",
+      "rainbow flag"
     ]
   },
   {
@@ -34046,7 +34108,8 @@
     "name": "Afghanistan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "afghanistan"
     ]
   },
   {
@@ -34059,7 +34122,8 @@
     "name": "Åland Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "Åland islands"
     ]
   },
   {
@@ -34072,7 +34136,8 @@
     "name": "Albania",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "albania"
     ]
   },
   {
@@ -34085,7 +34150,8 @@
     "name": "Algeria",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "algeria"
     ]
   },
   {
@@ -34098,7 +34164,8 @@
     "name": "American Samoa",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "american samoa"
     ]
   },
   {
@@ -34111,7 +34178,8 @@
     "name": "Andorra",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "andorra"
     ]
   },
   {
@@ -34124,7 +34192,8 @@
     "name": "Angola",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "angola"
     ]
   },
   {
@@ -34137,7 +34206,8 @@
     "name": "Anguilla",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "anguilla"
     ]
   },
   {
@@ -34150,7 +34220,8 @@
     "name": "Antarctica",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "antarctica"
     ]
   },
   {
@@ -34163,7 +34234,8 @@
     "name": "Antigua & Barbuda",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "antigua & barbuda"
     ]
   },
   {
@@ -34176,7 +34248,8 @@
     "name": "Argentina",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "argentina"
     ]
   },
   {
@@ -34189,7 +34262,8 @@
     "name": "Armenia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "armenia"
     ]
   },
   {
@@ -34202,7 +34276,8 @@
     "name": "Aruba",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "aruba"
     ]
   },
   {
@@ -34215,7 +34290,8 @@
     "name": "Australia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "australia"
     ]
   },
   {
@@ -34228,7 +34304,8 @@
     "name": "Austria",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "austria"
     ]
   },
   {
@@ -34241,7 +34318,8 @@
     "name": "Azerbaijan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "azerbaijan"
     ]
   },
   {
@@ -34254,7 +34332,8 @@
     "name": "Bahamas",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bahamas"
     ]
   },
   {
@@ -34267,7 +34346,8 @@
     "name": "Bahrain",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bahrain"
     ]
   },
   {
@@ -34280,7 +34360,8 @@
     "name": "Bangladesh",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bangladesh"
     ]
   },
   {
@@ -34293,7 +34374,8 @@
     "name": "Barbados",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "barbados"
     ]
   },
   {
@@ -34306,7 +34388,8 @@
     "name": "Belarus",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "belarus"
     ]
   },
   {
@@ -34319,7 +34402,8 @@
     "name": "Belgium",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "belgium"
     ]
   },
   {
@@ -34332,7 +34416,8 @@
     "name": "Belize",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "belize"
     ]
   },
   {
@@ -34345,7 +34430,8 @@
     "name": "Benin",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "benin"
     ]
   },
   {
@@ -34358,7 +34444,8 @@
     "name": "Bermuda",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bermuda"
     ]
   },
   {
@@ -34371,7 +34458,8 @@
     "name": "Bhutan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bhutan"
     ]
   },
   {
@@ -34384,7 +34472,8 @@
     "name": "Bolivia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bolivia"
     ]
   },
   {
@@ -34397,7 +34486,8 @@
     "name": "Bosnia & Herzegovina",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bosnia & herzegovina"
     ]
   },
   {
@@ -34410,7 +34500,8 @@
     "name": "Botswana",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "botswana"
     ]
   },
   {
@@ -34423,7 +34514,8 @@
     "name": "Brazil",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "brazil"
     ]
   },
   {
@@ -34436,7 +34528,8 @@
     "name": "British Indian Ocean Territory",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "british indian ocean territory"
     ]
   },
   {
@@ -34449,7 +34542,8 @@
     "name": "British Virgin Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "british virgin islands"
     ]
   },
   {
@@ -34462,7 +34556,8 @@
     "name": "Brunei",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "brunei"
     ]
   },
   {
@@ -34475,7 +34570,8 @@
     "name": "Bulgaria",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bulgaria"
     ]
   },
   {
@@ -34488,7 +34584,8 @@
     "name": "Burkina Faso",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "burkina faso"
     ]
   },
   {
@@ -34501,7 +34598,8 @@
     "name": "Burundi",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "burundi"
     ]
   },
   {
@@ -34514,7 +34612,8 @@
     "name": "Cambodia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cambodia"
     ]
   },
   {
@@ -34527,7 +34626,8 @@
     "name": "Cameroon",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cameroon"
     ]
   },
   {
@@ -34540,7 +34640,8 @@
     "name": "Canada",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "canada"
     ]
   },
   {
@@ -34553,7 +34654,8 @@
     "name": "Canary Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "canary islands"
     ]
   },
   {
@@ -34566,7 +34668,8 @@
     "name": "Cape Verde",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cape verde"
     ]
   },
   {
@@ -34579,7 +34682,8 @@
     "name": "Caribbean Netherlands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "caribbean netherlands"
     ]
   },
   {
@@ -34592,7 +34696,8 @@
     "name": "Cayman Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cayman islands"
     ]
   },
   {
@@ -34605,7 +34710,8 @@
     "name": "Central African Republic",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "central african republic"
     ]
   },
   {
@@ -34618,7 +34724,8 @@
     "name": "Chad",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "chad"
     ]
   },
   {
@@ -34631,7 +34738,8 @@
     "name": "Chile",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "chile"
     ]
   },
   {
@@ -34644,7 +34752,8 @@
     "name": "China",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "china"
     ]
   },
   {
@@ -34657,7 +34766,8 @@
     "name": "Christmas Island",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "christmas island"
     ]
   },
   {
@@ -34670,7 +34780,8 @@
     "name": "Cocos (Keeling) Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cocos (keeling) islands"
     ]
   },
   {
@@ -34683,7 +34794,8 @@
     "name": "Colombia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "colombia"
     ]
   },
   {
@@ -34696,7 +34808,8 @@
     "name": "Comoros",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "comoros"
     ]
   },
   {
@@ -34709,7 +34822,8 @@
     "name": "Congo - Brazzaville",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "congo - brazzaville"
     ]
   },
   {
@@ -34722,7 +34836,8 @@
     "name": "Congo - Kinshasa",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "congo - kinshasa"
     ]
   },
   {
@@ -34735,7 +34850,8 @@
     "name": "Cook Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cook islands"
     ]
   },
   {
@@ -34748,7 +34864,8 @@
     "name": "Costa Rica",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "costa rica"
     ]
   },
   {
@@ -34761,7 +34878,8 @@
     "name": "Côte d’Ivoire",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "côte d’ivoire"
     ]
   },
   {
@@ -34774,7 +34892,8 @@
     "name": "Croatia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "croatia"
     ]
   },
   {
@@ -34787,7 +34906,8 @@
     "name": "Cuba",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cuba"
     ]
   },
   {
@@ -34800,7 +34920,8 @@
     "name": "Curaçao",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "curaçao"
     ]
   },
   {
@@ -34813,7 +34934,8 @@
     "name": "Cyprus",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "cyprus"
     ]
   },
   {
@@ -34826,7 +34948,8 @@
     "name": "Czechia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "czechia"
     ]
   },
   {
@@ -34839,7 +34962,8 @@
     "name": "Denmark",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "denmark"
     ]
   },
   {
@@ -34852,7 +34976,8 @@
     "name": "Djibouti",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "djibouti"
     ]
   },
   {
@@ -34865,7 +34990,8 @@
     "name": "Dominica",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "dominica"
     ]
   },
   {
@@ -34878,7 +35004,8 @@
     "name": "Dominican Republic",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "dominican republic"
     ]
   },
   {
@@ -34891,7 +35018,8 @@
     "name": "Ecuador",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "ecuador"
     ]
   },
   {
@@ -34904,7 +35032,8 @@
     "name": "Egypt",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "egypt"
     ]
   },
   {
@@ -34917,7 +35046,8 @@
     "name": "El Salvador",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "el salvador"
     ]
   },
   {
@@ -34930,7 +35060,8 @@
     "name": "Equatorial Guinea",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "equatorial guinea"
     ]
   },
   {
@@ -34943,7 +35074,8 @@
     "name": "Eritrea",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "eritrea"
     ]
   },
   {
@@ -34956,7 +35088,8 @@
     "name": "Estonia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "estonia"
     ]
   },
   {
@@ -34969,7 +35102,8 @@
     "name": "Ethiopia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "ethiopia"
     ]
   },
   {
@@ -34982,7 +35116,8 @@
     "name": "European Union",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "european union"
     ]
   },
   {
@@ -34995,7 +35130,8 @@
     "name": "Falkland Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "falkland islands"
     ]
   },
   {
@@ -35008,7 +35144,8 @@
     "name": "Faroe Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "faroe islands"
     ]
   },
   {
@@ -35021,7 +35158,8 @@
     "name": "Fiji",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "fiji"
     ]
   },
   {
@@ -35034,7 +35172,8 @@
     "name": "Finland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "finland"
     ]
   },
   {
@@ -35047,7 +35186,8 @@
     "name": "France",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "france"
     ]
   },
   {
@@ -35060,7 +35200,8 @@
     "name": "French Guiana",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "french guiana"
     ]
   },
   {
@@ -35073,7 +35214,8 @@
     "name": "French Polynesia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "french polynesia"
     ]
   },
   {
@@ -35086,7 +35228,8 @@
     "name": "French Southern Territories",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "french southern territories"
     ]
   },
   {
@@ -35099,7 +35242,8 @@
     "name": "Gabon",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "gabon"
     ]
   },
   {
@@ -35112,7 +35256,8 @@
     "name": "Gambia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "gambia"
     ]
   },
   {
@@ -35125,7 +35270,8 @@
     "name": "Georgia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "georgia"
     ]
   },
   {
@@ -35138,7 +35284,8 @@
     "name": "Germany",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "germany"
     ]
   },
   {
@@ -35151,7 +35298,8 @@
     "name": "Ghana",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "ghana"
     ]
   },
   {
@@ -35164,7 +35312,8 @@
     "name": "Gibraltar",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "gibraltar"
     ]
   },
   {
@@ -35177,7 +35326,8 @@
     "name": "Greece",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "greece"
     ]
   },
   {
@@ -35190,7 +35340,8 @@
     "name": "Greenland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "greenland"
     ]
   },
   {
@@ -35203,7 +35354,8 @@
     "name": "Grenada",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "grenada"
     ]
   },
   {
@@ -35216,7 +35368,8 @@
     "name": "Guadeloupe",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "guadeloupe"
     ]
   },
   {
@@ -35229,7 +35382,8 @@
     "name": "Guam",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "guam"
     ]
   },
   {
@@ -35242,7 +35396,8 @@
     "name": "Guatemala",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "guatemala"
     ]
   },
   {
@@ -35255,7 +35410,8 @@
     "name": "Guernsey",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "guernsey"
     ]
   },
   {
@@ -35268,7 +35424,8 @@
     "name": "Guinea",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "guinea"
     ]
   },
   {
@@ -35281,7 +35438,8 @@
     "name": "Guinea-Bissau",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "guinea-bissau"
     ]
   },
   {
@@ -35294,7 +35452,8 @@
     "name": "Guyana",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "guyana"
     ]
   },
   {
@@ -35307,7 +35466,8 @@
     "name": "Haiti",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "haiti"
     ]
   },
   {
@@ -35320,7 +35480,8 @@
     "name": "Honduras",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "honduras"
     ]
   },
   {
@@ -35333,7 +35494,8 @@
     "name": "Hong Kong SAR China",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "hong kong sar china"
     ]
   },
   {
@@ -35346,7 +35508,8 @@
     "name": "Hungary",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "hungary"
     ]
   },
   {
@@ -35359,7 +35522,8 @@
     "name": "Iceland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "iceland"
     ]
   },
   {
@@ -35372,7 +35536,8 @@
     "name": "India",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "india"
     ]
   },
   {
@@ -35385,7 +35550,8 @@
     "name": "Indonesia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "indonesia"
     ]
   },
   {
@@ -35398,7 +35564,8 @@
     "name": "Iran",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "iran"
     ]
   },
   {
@@ -35411,7 +35578,8 @@
     "name": "Iraq",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "iraq"
     ]
   },
   {
@@ -35424,7 +35592,8 @@
     "name": "Ireland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "ireland"
     ]
   },
   {
@@ -35437,7 +35606,8 @@
     "name": "Isle of Man",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "isle of man"
     ]
   },
   {
@@ -35450,7 +35620,8 @@
     "name": "Israel",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "israel"
     ]
   },
   {
@@ -35463,7 +35634,8 @@
     "name": "Italy",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "italy"
     ]
   },
   {
@@ -35476,7 +35648,8 @@
     "name": "Jamaica",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "jamaica"
     ]
   },
   {
@@ -35489,7 +35662,8 @@
     "name": "Japan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "japan"
     ]
   },
   {
@@ -35505,7 +35679,8 @@
       "crossed",
       "cross",
       "celebration",
-      "Japanese"
+      "japanese",
+      "crossed flags"
     ]
   },
   {
@@ -35518,7 +35693,8 @@
     "name": "Jersey",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "jersey"
     ]
   },
   {
@@ -35531,7 +35707,8 @@
     "name": "Jordan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "jordan"
     ]
   },
   {
@@ -35544,7 +35721,8 @@
     "name": "Kazakhstan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "kazakhstan"
     ]
   },
   {
@@ -35557,7 +35735,8 @@
     "name": "Kenya",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "kenya"
     ]
   },
   {
@@ -35570,7 +35749,8 @@
     "name": "Kiribati",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "kiribati"
     ]
   },
   {
@@ -35583,7 +35763,8 @@
     "name": "Kosovo",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "kosovo"
     ]
   },
   {
@@ -35596,7 +35777,8 @@
     "name": "Kuwait",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "kuwait"
     ]
   },
   {
@@ -35609,7 +35791,8 @@
     "name": "Kyrgyzstan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "kyrgyzstan"
     ]
   },
   {
@@ -35622,7 +35805,8 @@
     "name": "Laos",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "laos"
     ]
   },
   {
@@ -35635,7 +35819,8 @@
     "name": "Latvia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "latvia"
     ]
   },
   {
@@ -35648,7 +35833,8 @@
     "name": "Lebanon",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "lebanon"
     ]
   },
   {
@@ -35661,7 +35847,8 @@
     "name": "Lesotho",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "lesotho"
     ]
   },
   {
@@ -35674,7 +35861,8 @@
     "name": "Liberia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "liberia"
     ]
   },
   {
@@ -35687,7 +35875,8 @@
     "name": "Libya",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "libya"
     ]
   },
   {
@@ -35700,7 +35889,8 @@
     "name": "Liechtenstein",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "liechtenstein"
     ]
   },
   {
@@ -35713,7 +35903,8 @@
     "name": "Lithuania",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "lithuania"
     ]
   },
   {
@@ -35726,7 +35917,8 @@
     "name": "Luxembourg",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "luxembourg"
     ]
   },
   {
@@ -35739,7 +35931,8 @@
     "name": "Macau SAR China",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "macau sar china"
     ]
   },
   {
@@ -35752,7 +35945,8 @@
     "name": "Macedonia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "macedonia"
     ]
   },
   {
@@ -35765,7 +35959,8 @@
     "name": "Madagascar",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "madagascar"
     ]
   },
   {
@@ -35778,7 +35973,8 @@
     "name": "Malawi",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "malawi"
     ]
   },
   {
@@ -35791,7 +35987,8 @@
     "name": "Malaysia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "malaysia"
     ]
   },
   {
@@ -35804,7 +36001,8 @@
     "name": "Maldives",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "maldives"
     ]
   },
   {
@@ -35817,7 +36015,8 @@
     "name": "Mali",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "mali"
     ]
   },
   {
@@ -35830,7 +36029,8 @@
     "name": "Malta",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "malta"
     ]
   },
   {
@@ -35843,7 +36043,8 @@
     "name": "Marshall Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "marshall islands"
     ]
   },
   {
@@ -35856,7 +36057,8 @@
     "name": "Martinique",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "martinique"
     ]
   },
   {
@@ -35869,7 +36071,8 @@
     "name": "Mauritania",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "mauritania"
     ]
   },
   {
@@ -35882,7 +36085,8 @@
     "name": "Mauritius",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "mauritius"
     ]
   },
   {
@@ -35895,7 +36099,8 @@
     "name": "Mayotte",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "mayotte"
     ]
   },
   {
@@ -35908,7 +36113,8 @@
     "name": "Mexico",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "mexico"
     ]
   },
   {
@@ -35921,7 +36127,8 @@
     "name": "Micronesia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "micronesia"
     ]
   },
   {
@@ -35934,7 +36141,8 @@
     "name": "Moldova",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "moldova"
     ]
   },
   {
@@ -35947,7 +36155,8 @@
     "name": "Monaco",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "monaco"
     ]
   },
   {
@@ -35960,7 +36169,8 @@
     "name": "Mongolia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "mongolia"
     ]
   },
   {
@@ -35973,7 +36183,8 @@
     "name": "Montenegro",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "montenegro"
     ]
   },
   {
@@ -35986,7 +36197,8 @@
     "name": "Montserrat",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "montserrat"
     ]
   },
   {
@@ -35999,7 +36211,8 @@
     "name": "Morocco",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "morocco"
     ]
   },
   {
@@ -36012,7 +36225,8 @@
     "name": "Mozambique",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "mozambique"
     ]
   },
   {
@@ -36025,7 +36239,8 @@
     "name": "Myanmar (Burma)",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "myanmar (burma)"
     ]
   },
   {
@@ -36038,7 +36253,8 @@
     "name": "Namibia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "namibia"
     ]
   },
   {
@@ -36051,7 +36267,8 @@
     "name": "Nauru",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "nauru"
     ]
   },
   {
@@ -36064,7 +36281,8 @@
     "name": "Nepal",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "nepal"
     ]
   },
   {
@@ -36077,7 +36295,8 @@
     "name": "Netherlands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "netherlands"
     ]
   },
   {
@@ -36090,7 +36309,8 @@
     "name": "New Caledonia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "new caledonia"
     ]
   },
   {
@@ -36103,7 +36323,8 @@
     "name": "New Zealand",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "new zealand"
     ]
   },
   {
@@ -36116,7 +36337,8 @@
     "name": "Nicaragua",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "nicaragua"
     ]
   },
   {
@@ -36129,7 +36351,8 @@
     "name": "Niger",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "niger"
     ]
   },
   {
@@ -36142,7 +36365,8 @@
     "name": "Nigeria",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "nigeria"
     ]
   },
   {
@@ -36155,7 +36379,8 @@
     "name": "Niue",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "niue"
     ]
   },
   {
@@ -36168,7 +36393,8 @@
     "name": "Norfolk Island",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "norfolk island"
     ]
   },
   {
@@ -36181,7 +36407,8 @@
     "name": "North Korea",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "north korea"
     ]
   },
   {
@@ -36194,7 +36421,8 @@
     "name": "Northern Mariana Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "northern mariana islands"
     ]
   },
   {
@@ -36207,7 +36435,8 @@
     "name": "Norway",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "norway"
     ]
   },
   {
@@ -36220,7 +36449,8 @@
     "name": "Oman",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "oman"
     ]
   },
   {
@@ -36233,7 +36463,8 @@
     "name": "Pakistan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "pakistan"
     ]
   },
   {
@@ -36246,7 +36477,8 @@
     "name": "Palau",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "palau"
     ]
   },
   {
@@ -36259,7 +36491,8 @@
     "name": "Palestinian Territories",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "palestinian territories"
     ]
   },
   {
@@ -36272,7 +36505,8 @@
     "name": "Panama",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "panama"
     ]
   },
   {
@@ -36285,7 +36519,8 @@
     "name": "Papua New Guinea",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "papua new guinea"
     ]
   },
   {
@@ -36298,7 +36533,8 @@
     "name": "Paraguay",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "paraguay"
     ]
   },
   {
@@ -36311,7 +36547,8 @@
     "name": "Peru",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "peru"
     ]
   },
   {
@@ -36324,7 +36561,8 @@
     "name": "Philippines",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "philippines"
     ]
   },
   {
@@ -36337,7 +36575,8 @@
     "name": "Pitcairn Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "pitcairn islands"
     ]
   },
   {
@@ -36350,7 +36589,8 @@
     "name": "Poland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "poland"
     ]
   },
   {
@@ -36363,7 +36603,8 @@
     "name": "Portugal",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "portugal"
     ]
   },
   {
@@ -36376,7 +36617,8 @@
     "name": "Puerto Rico",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "puerto rico"
     ]
   },
   {
@@ -36389,7 +36631,8 @@
     "name": "Qatar",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "qatar"
     ]
   },
   {
@@ -36402,7 +36645,8 @@
     "name": "Réunion",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "réunion"
     ]
   },
   {
@@ -36415,7 +36659,8 @@
     "name": "Romania",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "romania"
     ]
   },
   {
@@ -36428,7 +36673,8 @@
     "name": "Russia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "russia"
     ]
   },
   {
@@ -36441,7 +36687,8 @@
     "name": "Rwanda",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "rwanda"
     ]
   },
   {
@@ -36454,7 +36701,8 @@
     "name": "Samoa",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "samoa"
     ]
   },
   {
@@ -36467,7 +36715,8 @@
     "name": "San Marino",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "san marino"
     ]
   },
   {
@@ -36480,7 +36729,8 @@
     "name": "São Tomé & Príncipe",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "são tomé & príncipe"
     ]
   },
   {
@@ -36493,7 +36743,8 @@
     "name": "Saudi Arabia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "saudi arabia"
     ]
   },
   {
@@ -36506,7 +36757,8 @@
     "name": "Senegal",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "senegal"
     ]
   },
   {
@@ -36519,7 +36771,8 @@
     "name": "Serbia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "serbia"
     ]
   },
   {
@@ -36532,7 +36785,8 @@
     "name": "Seychelles",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "seychelles"
     ]
   },
   {
@@ -36545,7 +36799,8 @@
     "name": "Sierra Leone",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "sierra leone"
     ]
   },
   {
@@ -36558,7 +36813,8 @@
     "name": "Singapore",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "singapore"
     ]
   },
   {
@@ -36571,7 +36827,8 @@
     "name": "Sint Maarten",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "sint maarten"
     ]
   },
   {
@@ -36584,7 +36841,8 @@
     "name": "Slovakia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "slovakia"
     ]
   },
   {
@@ -36597,7 +36855,8 @@
     "name": "Slovenia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "slovenia"
     ]
   },
   {
@@ -36610,7 +36869,8 @@
     "name": "South Georgia & South Sandwich Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "south georgia & south sandwich islands"
     ]
   },
   {
@@ -36623,7 +36883,8 @@
     "name": "Solomon Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "solomon islands"
     ]
   },
   {
@@ -36636,7 +36897,8 @@
     "name": "Somalia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "somalia"
     ]
   },
   {
@@ -36649,7 +36911,8 @@
     "name": "South Africa",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "south africa"
     ]
   },
   {
@@ -36662,7 +36925,8 @@
     "name": "South Korea",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "south korea"
     ]
   },
   {
@@ -36675,7 +36939,8 @@
     "name": "South Sudan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "south sudan"
     ]
   },
   {
@@ -36688,7 +36953,8 @@
     "name": "Spain",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "spain"
     ]
   },
   {
@@ -36701,7 +36967,8 @@
     "name": "Sri Lanka",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "sri lanka"
     ]
   },
   {
@@ -36714,7 +36981,8 @@
     "name": "St. Barthélemy",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "st. barthélemy"
     ]
   },
   {
@@ -36727,7 +36995,8 @@
     "name": "St. Helena",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "st. helena"
     ]
   },
   {
@@ -36740,7 +37009,8 @@
     "name": "St. Kitts & Nevis",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "st. kitts & nevis"
     ]
   },
   {
@@ -36753,7 +37023,8 @@
     "name": "St. Lucia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "st. lucia"
     ]
   },
   {
@@ -36766,7 +37037,8 @@
     "name": "St. Pierre & Miquelon",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "st. pierre & miquelon"
     ]
   },
   {
@@ -36779,7 +37051,8 @@
     "name": "St. Vincent & Grenadines",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "st. vincent & grenadines"
     ]
   },
   {
@@ -36792,7 +37065,8 @@
     "name": "Sudan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "sudan"
     ]
   },
   {
@@ -36805,7 +37079,8 @@
     "name": "Suriname",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "suriname"
     ]
   },
   {
@@ -36818,7 +37093,8 @@
     "name": "Swaziland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "swaziland"
     ]
   },
   {
@@ -36831,7 +37107,8 @@
     "name": "Sweden",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "sweden"
     ]
   },
   {
@@ -36844,7 +37121,8 @@
     "name": "Switzerland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "switzerland"
     ]
   },
   {
@@ -36857,7 +37135,8 @@
     "name": "Syria",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "syria"
     ]
   },
   {
@@ -36870,7 +37149,8 @@
     "name": "Taiwan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "taiwan"
     ]
   },
   {
@@ -36883,7 +37163,8 @@
     "name": "Tajikistan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "tajikistan"
     ]
   },
   {
@@ -36896,7 +37177,8 @@
     "name": "Tanzania",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "tanzania"
     ]
   },
   {
@@ -36909,7 +37191,8 @@
     "name": "Thailand",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "thailand"
     ]
   },
   {
@@ -36922,7 +37205,8 @@
     "name": "Timor-Leste",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "timor-leste"
     ]
   },
   {
@@ -36935,7 +37219,8 @@
     "name": "Togo",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "togo"
     ]
   },
   {
@@ -36948,7 +37233,8 @@
     "name": "Tokelau",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "tokelau"
     ]
   },
   {
@@ -36961,7 +37247,8 @@
     "name": "Tonga",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "tonga"
     ]
   },
   {
@@ -36974,7 +37261,8 @@
     "name": "Trinidad & Tobago",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "trinidad & tobago"
     ]
   },
   {
@@ -36987,7 +37275,8 @@
     "name": "Tunisia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "tunisia"
     ]
   },
   {
@@ -37000,7 +37289,8 @@
     "name": "Turkey",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "turkey"
     ]
   },
   {
@@ -37013,7 +37303,8 @@
     "name": "Turkmenistan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "turkmenistan"
     ]
   },
   {
@@ -37026,7 +37317,8 @@
     "name": "Turks & Caicos Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "turks & caicos islands"
     ]
   },
   {
@@ -37039,7 +37331,8 @@
     "name": "Tuvalu",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "tuvalu"
     ]
   },
   {
@@ -37052,7 +37345,8 @@
     "name": "U.S. Virgin Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "u.s. virgin islands"
     ]
   },
   {
@@ -37065,7 +37359,8 @@
     "name": "Uganda",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "uganda"
     ]
   },
   {
@@ -37078,7 +37373,8 @@
     "name": "Ukraine",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "ukraine"
     ]
   },
   {
@@ -37091,7 +37387,8 @@
     "name": "United Arab Emirates",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "united arab emirates"
     ]
   },
   {
@@ -37104,7 +37401,8 @@
     "name": "United Kingdom",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "united kingdom"
     ]
   },
   {
@@ -37117,7 +37415,8 @@
     "name": "United States",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "united states"
     ]
   },
   {
@@ -37130,7 +37429,8 @@
     "name": "Uruguay",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "uruguay"
     ]
   },
   {
@@ -37143,7 +37443,8 @@
     "name": "Uzbekistan",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "uzbekistan"
     ]
   },
   {
@@ -37156,7 +37457,8 @@
     "name": "Vanuatu",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "vanuatu"
     ]
   },
   {
@@ -37169,7 +37471,8 @@
     "name": "Vatican City",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "vatican city"
     ]
   },
   {
@@ -37182,7 +37485,8 @@
     "name": "Venezuela",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "venezuela"
     ]
   },
   {
@@ -37195,7 +37499,8 @@
     "name": "Vietnam",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "vietnam"
     ]
   },
   {
@@ -37208,7 +37513,8 @@
     "name": "Wallis & Futuna",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "wallis & futuna"
     ]
   },
   {
@@ -37221,7 +37527,8 @@
     "name": "Western Sahara",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "western sahara"
     ]
   },
   {
@@ -37234,7 +37541,8 @@
     "name": "Yemen",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "yemen"
     ]
   },
   {
@@ -37247,7 +37555,8 @@
     "name": "Zambia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "zambia"
     ]
   },
   {
@@ -37260,7 +37569,8 @@
     "name": "Zimbabwe",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "zimbabwe"
     ]
   },
   {
@@ -37273,7 +37583,8 @@
     "name": "Ascension Island",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "ascension island"
     ]
   },
   {
@@ -37286,7 +37597,8 @@
     "name": "Tristan da Cunha",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "tristan da cunha"
     ]
   },
   {
@@ -37299,7 +37611,8 @@
     "name": "Bouvet Island",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "bouvet island"
     ]
   },
   {
@@ -37312,7 +37625,8 @@
     "name": "Heard & McDonald Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "heard & mcdonald islands"
     ]
   },
   {
@@ -37325,7 +37639,8 @@
     "name": "Svalbard & Jan Mayen",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "svalbard & jan mayen"
     ]
   },
   {
@@ -37338,7 +37653,8 @@
     "name": "U.S. Outlying Islands",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "u.s. outlying islands"
     ]
   },
   {
@@ -37351,7 +37667,8 @@
     "name": "Ceuta & Melilla",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "ceuta & melilla"
     ]
   },
   {
@@ -37364,7 +37681,8 @@
     "name": "Clipperton Island",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "clipperton island"
     ]
   },
   {
@@ -37377,7 +37695,8 @@
     "name": "Diego Garcia",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "diego garcia"
     ]
   },
   {
@@ -37390,7 +37709,8 @@
     "name": "St. Martin",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "st. martin"
     ]
   },
   {
@@ -37403,7 +37723,8 @@
     "name": "United Nations",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "united nations"
     ]
   },
   {
@@ -37416,7 +37737,8 @@
     "name": "England",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "england"
     ]
   },
   {
@@ -37429,7 +37751,8 @@
     "name": "Scotland",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "scotland"
     ]
   },
   {
@@ -37442,7 +37765,8 @@
     "name": "Wales",
     "skinTone": false,
     "tags": [
-      "flag"
+      "flag",
+      "wales"
     ]
   },
   {
@@ -38020,7 +38344,14 @@
     },
     "name": "face with raised eyebrow",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "distrust",
+      "skeptic",
+      "disapproval",
+      "disbelief",
+      "mild surprise",
+      "scepticism"
+    ]
   },
   {
     "category": "people",
@@ -38031,7 +38362,13 @@
     },
     "name": "star-struck",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "eyes",
+      "face",
+      "grinning",
+      "star",
+      "starry-eyed"
+    ]
   },
   {
     "category": "people",
@@ -38045,7 +38382,8 @@
     "tags": [
       "small",
       "large",
-      "eye"
+      "eye",
+      "goofy"
     ]
   },
   {
@@ -38071,7 +38409,10 @@
     },
     "name": "face with symbols over mouth",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "swearing",
+      "cursing"
+    ]
   },
   {
     "category": "people",
@@ -38082,7 +38423,12 @@
     },
     "name": "face with hand over mouth",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "whoops",
+      "shock",
+      "sudden realization",
+      "surprise"
+    ]
   },
   {
     "category": "people",
@@ -38120,7 +38466,10 @@
     },
     "name": "face with monocle",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "stuffy",
+      "wealthy"
+    ]
   },
   {
     "category": "people",
@@ -38131,7 +38480,9 @@
     },
     "name": "adult",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "gender-neutral"
+    ]
   },
   {
     "category": "people",
@@ -38142,7 +38493,10 @@
     },
     "name": "child",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "gender-neutral",
+      "young"
+    ]
   },
   {
     "category": "people",
@@ -38153,7 +38507,10 @@
     },
     "name": "older adult",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "gender-neutral",
+      "old"
+    ]
   },
   {
     "category": "people",
@@ -38164,7 +38521,10 @@
     },
     "name": "bearded person",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "beard",
+      "bewhiskered"
+    ]
   },
   {
     "category": "people",
@@ -38175,7 +38535,14 @@
     },
     "name": "woman with headscarf",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "headscarf",
+      "hijab",
+      "mantilla",
+      "tichel",
+      "bandana",
+      "head kerchief"
+    ]
   },
   {
     "category": "people",
@@ -38229,9 +38596,9 @@
     "name": "fairy",
     "skinTone": false,
     "tags": [
-      "Titania",
-      "Puck",
-      "Oberon"
+      "titania",
+      "puck",
+      "oberon"
     ]
   },
   {
@@ -38245,7 +38612,7 @@
     "skinTone": false,
     "tags": [
       "undead",
-      "Dracula"
+      "dracula"
     ]
   },
   {
@@ -38272,7 +38639,10 @@
     },
     "name": "elf",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "magical",
+      "lotr style"
+    ]
   },
   {
     "category": "people",
@@ -38283,7 +38653,9 @@
     },
     "name": "genie",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "djinn"
+    ]
   },
   {
     "category": "people",
@@ -38294,7 +38666,10 @@
     },
     "name": "zombie",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "undead",
+      "walking dead"
+    ]
   },
   {
     "category": "people",
@@ -38359,7 +38734,7 @@
     "skinTone": false,
     "tags": [
       "hand",
-      "ILY"
+      "ily"
     ]
   },
   {
@@ -38373,7 +38748,7 @@
     "skinTone": "light skin tone",
     "tags": [
       "hand",
-      "ILY",
+      "ily",
       "love-you gesture"
     ]
   },
@@ -38388,7 +38763,7 @@
     "skinTone": "medium-light skin tone",
     "tags": [
       "hand",
-      "ILY",
+      "ily",
       "love-you gesture"
     ]
   },
@@ -38403,7 +38778,7 @@
     "skinTone": "medium skin tone",
     "tags": [
       "hand",
-      "ILY",
+      "ily",
       "love-you gesture"
     ]
   },
@@ -38418,7 +38793,7 @@
     "skinTone": "medium-dark skin tone",
     "tags": [
       "hand",
-      "ILY",
+      "ily",
       "love-you gesture"
     ]
   },
@@ -38433,7 +38808,7 @@
     "skinTone": "dark skin tone",
     "tags": [
       "hand",
-      "ILY",
+      "ily",
       "love-you gesture"
     ]
   },
@@ -38446,7 +38821,10 @@
     },
     "name": "palms up together",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "prayer",
+      "cupped hands"
+    ]
   },
   {
     "category": "people",
@@ -38988,9 +39366,9 @@
     "name": "fairy: light skin tone",
     "skinTone": "light skin tone",
     "tags": [
-      "Titania",
-      "Puck",
-      "Oberon",
+      "titania",
+      "puck",
+      "oberon",
       "fairy"
     ]
   },
@@ -39004,9 +39382,9 @@
     "name": "fairy: medium-light skin tone",
     "skinTone": "medium-light skin tone",
     "tags": [
-      "Titania",
-      "Puck",
-      "Oberon",
+      "titania",
+      "puck",
+      "oberon",
       "fairy"
     ]
   },
@@ -39020,9 +39398,9 @@
     "name": "fairy: medium skin tone",
     "skinTone": "medium skin tone",
     "tags": [
-      "Titania",
-      "Puck",
-      "Oberon",
+      "titania",
+      "puck",
+      "oberon",
       "fairy"
     ]
   },
@@ -39036,9 +39414,9 @@
     "name": "fairy: medium-dark skin tone",
     "skinTone": "medium-dark skin tone",
     "tags": [
-      "Titania",
-      "Puck",
-      "Oberon",
+      "titania",
+      "puck",
+      "oberon",
       "fairy"
     ]
   },
@@ -39052,9 +39430,9 @@
     "name": "fairy: dark skin tone",
     "skinTone": "dark skin tone",
     "tags": [
-      "Titania",
-      "Puck",
-      "Oberon",
+      "titania",
+      "puck",
+      "oberon",
       "fairy"
     ]
   },
@@ -39069,7 +39447,7 @@
     "skinTone": "light skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "vampire"
     ]
   },
@@ -39084,7 +39462,7 @@
     "skinTone": "medium-light skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "vampire"
     ]
   },
@@ -39099,7 +39477,7 @@
     "skinTone": "medium skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "vampire"
     ]
   },
@@ -39114,7 +39492,7 @@
     "skinTone": "medium-dark skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "vampire"
     ]
   },
@@ -39129,7 +39507,7 @@
     "skinTone": "dark skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "vampire"
     ]
   },
@@ -39471,7 +39849,7 @@
     "name": "woman fairy",
     "skinTone": false,
     "tags": [
-      "Titania"
+      "titania"
     ]
   },
   {
@@ -39484,8 +39862,8 @@
     "name": "man fairy",
     "skinTone": false,
     "tags": [
-      "Puck",
-      "Oberon"
+      "puck",
+      "oberon"
     ]
   },
   {
@@ -39498,7 +39876,7 @@
     "name": "woman fairy: light skin tone",
     "skinTone": "light skin tone",
     "tags": [
-      "Titania",
+      "titania",
       "woman fairy"
     ]
   },
@@ -39512,8 +39890,8 @@
     "name": "man fairy: light skin tone",
     "skinTone": "light skin tone",
     "tags": [
-      "Puck",
-      "Oberon",
+      "puck",
+      "oberon",
       "man fairy"
     ]
   },
@@ -39527,7 +39905,7 @@
     "name": "woman fairy: medium-light skin tone",
     "skinTone": "medium-light skin tone",
     "tags": [
-      "Titania",
+      "titania",
       "woman fairy"
     ]
   },
@@ -39541,8 +39919,8 @@
     "name": "man fairy: medium-light skin tone",
     "skinTone": "medium-light skin tone",
     "tags": [
-      "Puck",
-      "Oberon",
+      "puck",
+      "oberon",
       "man fairy"
     ]
   },
@@ -39556,7 +39934,7 @@
     "name": "woman fairy: medium skin tone",
     "skinTone": "medium skin tone",
     "tags": [
-      "Titania",
+      "titania",
       "woman fairy"
     ]
   },
@@ -39570,8 +39948,8 @@
     "name": "man fairy: medium skin tone",
     "skinTone": "medium skin tone",
     "tags": [
-      "Puck",
-      "Oberon",
+      "puck",
+      "oberon",
       "man fairy"
     ]
   },
@@ -39585,7 +39963,7 @@
     "name": "woman fairy: medium-dark skin tone",
     "skinTone": "medium-dark skin tone",
     "tags": [
-      "Titania",
+      "titania",
       "woman fairy"
     ]
   },
@@ -39599,8 +39977,8 @@
     "name": "man fairy: medium-dark skin tone",
     "skinTone": "medium-dark skin tone",
     "tags": [
-      "Puck",
-      "Oberon",
+      "puck",
+      "oberon",
       "man fairy"
     ]
   },
@@ -39614,7 +39992,7 @@
     "name": "woman fairy: dark skin tone",
     "skinTone": "dark skin tone",
     "tags": [
-      "Titania",
+      "titania",
       "woman fairy"
     ]
   },
@@ -39628,8 +40006,8 @@
     "name": "man fairy: dark skin tone",
     "skinTone": "dark skin tone",
     "tags": [
-      "Puck",
-      "Oberon",
+      "puck",
+      "oberon",
       "man fairy"
     ]
   },
@@ -39657,7 +40035,7 @@
     "skinTone": false,
     "tags": [
       "undead",
-      "Dracula"
+      "dracula"
     ]
   },
   {
@@ -39685,7 +40063,7 @@
     "skinTone": "light skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "man vampire"
     ]
   },
@@ -39714,7 +40092,7 @@
     "skinTone": "medium-light skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "man vampire"
     ]
   },
@@ -39743,7 +40121,7 @@
     "skinTone": "medium skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "man vampire"
     ]
   },
@@ -39772,7 +40150,7 @@
     "skinTone": "medium-dark skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "man vampire"
     ]
   },
@@ -39801,7 +40179,7 @@
     "skinTone": "dark skin tone",
     "tags": [
       "undead",
-      "Dracula",
+      "dracula",
       "man vampire"
     ]
   },
@@ -39828,7 +40206,7 @@
     "name": "merman",
     "skinTone": false,
     "tags": [
-      "Triton"
+      "triton"
     ]
   },
   {
@@ -39855,7 +40233,7 @@
     "name": "merman: light skin tone",
     "skinTone": "light skin tone",
     "tags": [
-      "Triton",
+      "triton",
       "merman"
     ]
   },
@@ -39883,7 +40261,7 @@
     "name": "merman: medium-light skin tone",
     "skinTone": "medium-light skin tone",
     "tags": [
-      "Triton",
+      "triton",
       "merman"
     ]
   },
@@ -39911,7 +40289,7 @@
     "name": "merman: medium skin tone",
     "skinTone": "medium skin tone",
     "tags": [
-      "Triton",
+      "triton",
       "merman"
     ]
   },
@@ -39939,7 +40317,7 @@
     "name": "merman: medium-dark skin tone",
     "skinTone": "medium-dark skin tone",
     "tags": [
-      "Triton",
+      "triton",
       "merman"
     ]
   },
@@ -39967,7 +40345,7 @@
     "name": "merman: dark skin tone",
     "skinTone": "dark skin tone",
     "tags": [
-      "Triton",
+      "triton",
       "merman"
     ]
   },

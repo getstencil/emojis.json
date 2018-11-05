@@ -1,0 +1,49 @@
+[
+  {
+    "category": "people",
+    "codes": {
+      "short": "grinning",
+      "simple": "1f600",
+      "standard": "U+1F600"
+    },
+    "name": "grinning face",
+    "skinTone": false,
+    "tags": [
+      "grin",
+      "face"
+    ]
+  },
+  {
+    "category": "people",
+    "codes": {
+      "short": "smiley",
+      "simple": "1f603",
+      "standard": "U+1F603"
+    },
+    "name": "smiling face with open mouth",
+    "skinTone": false,
+    "tags": [
+      "smile",
+      "open",
+      "mouth",
+      "face"
+    ]
+  },
+  {
+    "category": "people",
+    "codes": {
+      "short": "smile",
+      "simple": "1f604",
+      "standard": "U+1F604"
+    },
+    "name": "smiling face with open mouth & smiling eyes",
+    "skinTone": false,
+    "tags": [
+      "smile",
+      "open",
+      "mouth",
+      "face",
+      "eye"
+    ]
+  }
+]
