@@ -1,7 +1,7 @@
 # emojis.json
-Needed a simple, tagged document for the `2,666` emojis we currently use in [Stencil](https://getstencil.com/). Lots of emoji JSON documents scattered around the web, but they were all missing things we needed.
+Tagged document for the `2,666` emojis we currently use in [Stencil](https://getstencil.com/). Lots of emoji JSON documents scattered around the web, but they were all missing different properties (and structure) that we needed.
 
-Here's the breakdown of what's included:
+Here's the breakdown of what's included in this document:
 - `category` the category the emoji is part of
 - `codes` an array of codes that apps may use, including `short`, `simple` and `standard`
 - `name` the name of the emoji
