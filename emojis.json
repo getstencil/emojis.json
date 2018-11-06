@@ -1260,6 +1260,7 @@
     "name": "ghost",
     "skinTone": false,
     "tags": [
+      "scary",
       "monster",
       "fantasy",
       "fairy tale",
@@ -5099,7 +5100,9 @@
     },
     "name": "man",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "man"
+    ]
   },
   {
     "category": "people",
@@ -5175,7 +5178,9 @@
     },
     "name": "woman",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "woman"
+    ]
   },
   {
     "category": "people",
@@ -6717,7 +6722,9 @@
     },
     "name": "guard",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "guard"
+    ]
   },
   {
     "category": "people",
@@ -10768,7 +10775,9 @@
     },
     "name": "prince",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "prince"
+    ]
   },
   {
     "category": "people",
@@ -15487,7 +15496,6 @@
       "woman",
       "love",
       "couple",
-      "woman, woman",
       "couple with heart"
     ]
   },
@@ -15504,7 +15512,6 @@
       "man",
       "love",
       "couple",
-      "man, man",
       "couple with heart"
     ]
   },
@@ -15533,7 +15540,6 @@
     "tags": [
       "woman",
       "couple",
-      "woman, woman",
       "kiss"
     ]
   },
@@ -15549,7 +15555,6 @@
     "tags": [
       "man",
       "couple",
-      "man, man",
       "kiss"
     ]
   },
@@ -15562,7 +15567,9 @@
     },
     "name": "family",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "family"
+    ]
   },
   {
     "category": "people",
@@ -15577,7 +15584,6 @@
       "woman",
       "man",
       "girl",
-      "man, woman, girl",
       "family"
     ]
   },
@@ -15595,7 +15601,6 @@
       "man",
       "girl",
       "boy",
-      "man, woman, girl, boy",
       "family"
     ]
   },
@@ -15612,7 +15617,6 @@
       "woman",
       "man",
       "boy",
-      "man, woman, boy, boy",
       "family"
     ]
   },
@@ -15629,7 +15633,6 @@
       "woman",
       "man",
       "girl",
-      "man, woman, girl, girl",
       "family"
     ]
   },
@@ -15645,7 +15648,6 @@
     "tags": [
       "woman",
       "boy",
-      "woman, woman, boy",
       "family"
     ]
   },
@@ -15661,7 +15663,6 @@
     "tags": [
       "woman",
       "girl",
-      "woman, woman, girl",
       "family"
     ]
   },
@@ -15678,7 +15679,6 @@
       "woman",
       "girl",
       "boy",
-      "woman, woman, girl, boy",
       "family"
     ]
   },
@@ -15694,7 +15694,6 @@
     "tags": [
       "woman",
       "boy",
-      "woman, woman, boy, boy",
       "family"
     ]
   },
@@ -15710,7 +15709,6 @@
     "tags": [
       "woman",
       "girl",
-      "woman, woman, girl, girl",
       "family"
     ]
   },
@@ -15726,7 +15724,6 @@
     "tags": [
       "man",
       "boy",
-      "man, man, boy",
       "family"
     ]
   },
@@ -15742,7 +15739,6 @@
     "tags": [
       "man",
       "girl",
-      "man, man, girl",
       "family"
     ]
   },
@@ -15759,7 +15755,6 @@
       "man",
       "girl",
       "boy",
-      "man, man, girl, boy",
       "family"
     ]
   },
@@ -15775,7 +15770,6 @@
     "tags": [
       "man",
       "boy",
-      "man, man, boy, boy",
       "family"
     ]
   },
@@ -15791,7 +15785,6 @@
     "tags": [
       "man",
       "girl",
-      "man, man, girl, girl",
       "family"
     ]
   },
@@ -15807,7 +15800,6 @@
     "tags": [
       "woman",
       "boy",
-      "woman, boy",
       "family"
     ]
   },
@@ -15823,7 +15815,6 @@
     "tags": [
       "woman",
       "girl",
-      "woman, girl",
       "family"
     ]
   },
@@ -15840,7 +15831,6 @@
       "woman",
       "girl",
       "boy",
-      "woman, girl, boy",
       "family"
     ]
   },
@@ -15856,7 +15846,6 @@
     "tags": [
       "woman",
       "boy",
-      "woman, boy, boy",
       "family"
     ]
   },
@@ -15872,7 +15861,6 @@
     "tags": [
       "woman",
       "girl",
-      "woman, girl, girl",
       "family"
     ]
   },
@@ -15888,7 +15876,6 @@
     "tags": [
       "man",
       "boy",
-      "man, boy",
       "family"
     ]
   },
@@ -15904,7 +15891,6 @@
     "tags": [
       "man",
       "girl",
-      "man, girl",
       "family"
     ]
   },
@@ -15921,7 +15907,6 @@
       "man",
       "girl",
       "boy",
-      "man, girl, boy",
       "family"
     ]
   },
@@ -15937,7 +15922,6 @@
     "tags": [
       "man",
       "boy",
-      "man, boy, boy",
       "family"
     ]
   },
@@ -15953,7 +15937,6 @@
     "tags": [
       "man",
       "girl",
-      "man, girl, girl",
       "family"
     ]
   },
@@ -16283,7 +16266,9 @@
     },
     "name": "briefcase",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "briefcase"
+    ]
   },
   {
     "category": "people",
@@ -16918,7 +16903,10 @@
     },
     "name": "snail",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "molusca",
+      "snail"
+    ]
   },
   {
     "category": "nature",
@@ -17086,7 +17074,9 @@
     },
     "name": "octopus",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "octopus"
+    ]
   },
   {
     "category": "nature",
@@ -17194,7 +17184,10 @@
     },
     "name": "whale",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "ocean",
+      "whale"
+    ]
   },
   {
     "category": "nature",
@@ -17205,7 +17198,9 @@
     },
     "name": "crocodile",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "crocodile"
+    ]
   },
   {
     "category": "nature",
@@ -17216,7 +17211,10 @@
     },
     "name": "leopard",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "cat",
+      "leopard"
+    ]
   },
   {
     "category": "nature",
@@ -17227,7 +17225,9 @@
     },
     "name": "tiger",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "tiger"
+    ]
   },
   {
     "category": "nature",
@@ -17280,7 +17280,9 @@
     },
     "name": "deer",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "deer"
+    ]
   },
   {
     "category": "nature",
@@ -17322,7 +17324,9 @@
     },
     "name": "elephant",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "elephant"
+    ]
   },
   {
     "category": "nature",
@@ -17333,7 +17337,9 @@
     },
     "name": "rhinoceros",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "rhino"
+    ]
   },
   {
     "category": "nature",
@@ -17344,7 +17350,9 @@
     },
     "name": "gorilla",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "gorilla"
+    ]
   },
   {
     "category": "nature",
@@ -19450,7 +19458,10 @@
     },
     "name": "sushi",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "food",
+      "sushi"
+    ]
   },
   {
     "category": "food",
@@ -19710,7 +19721,11 @@
     },
     "name": "popcorn",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "food",
+      "popcorn",
+      "snack"
+    ]
   },
   {
     "category": "food",
@@ -26358,7 +26373,9 @@
     },
     "name": "fountain",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "fountain"
+    ]
   },
   {
     "category": "travel",
@@ -26410,7 +26427,10 @@
     },
     "name": "stadium",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "sports",
+      "stadium"
+    ]
   },
   {
     "category": "travel",
@@ -26508,7 +26528,9 @@
     },
     "name": "mountain",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "mountain"
+    ]
   },
   {
     "category": "travel",
@@ -26562,7 +26584,9 @@
     },
     "name": "desert",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "desert"
+    ]
   },
   {
     "category": "travel",
@@ -26573,7 +26597,9 @@
     },
     "name": "camping",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "camping"
+    ]
   },
   {
     "category": "travel",
@@ -26679,7 +26705,9 @@
     },
     "name": "houses",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "homes"
+    ]
   },
   {
     "category": "travel",
@@ -27524,7 +27552,10 @@
     },
     "name": "pager",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "electronics",
+      "pager"
+    ]
   },
   {
     "category": "objects",
@@ -27719,7 +27750,9 @@
     },
     "name": "battery",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "battery"
+    ]
   },
   {
     "category": "objects",
@@ -27791,7 +27824,11 @@
     },
     "name": "wastebasket",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "bin",
+      "trash",
+      "wastebasket"
+    ]
   },
   {
     "category": "objects",
@@ -28353,7 +28390,9 @@
     },
     "name": "hole",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "hole"
+    ]
   },
   {
     "category": "objects",
@@ -28410,7 +28449,9 @@
     },
     "name": "toilet",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "toilet"
+    ]
   },
   {
     "category": "objects",
@@ -28596,7 +28637,9 @@
     },
     "name": "door",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "door"
+    ]
   },
   {
     "category": "objects",
@@ -29044,7 +29087,9 @@
     },
     "name": "label",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "label"
+    ]
   },
   {
     "category": "objects",
@@ -29371,7 +29416,10 @@
     },
     "name": "clipboard",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "clipboard",
+      "office"
+    ]
   },
   {
     "category": "objects",
@@ -29456,7 +29504,9 @@
     },
     "name": "notebook",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "notebook"
+    ]
   },
   {
     "category": "objects",
@@ -29606,7 +29656,9 @@
     },
     "name": "link",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "link"
+    ]
   },
   {
     "category": "objects",
@@ -29617,7 +29669,10 @@
     },
     "name": "paperclip",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "office",
+      "paperclip"
+    ]
   },
   {
     "category": "objects",
@@ -29766,7 +29821,10 @@
     },
     "name": "crayon",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "drawing",
+      "crayon"
+    ]
   },
   {
     "category": "objects",
@@ -29790,7 +29848,9 @@
     },
     "name": "pencil",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "pencil"
+    ]
   },
   {
     "category": "objects",
@@ -31306,7 +31366,9 @@
     },
     "name": "warning",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "warning"
+    ]
   },
   {
     "category": "symbols",
@@ -32834,7 +32896,9 @@
     },
     "name": "copyright",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "copyright"
+    ]
   },
   {
     "category": "symbols",
@@ -33361,7 +33425,9 @@
     },
     "name": "bell",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "bell"
+    ]
   },
   {
     "category": "symbols",
@@ -37778,7 +37844,9 @@
     },
     "name": "asterisk",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "asterisk"
+    ]
   },
   {
     "category": "regional",
@@ -38141,7 +38209,9 @@
     },
     "name": "digit nine",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "nine"
+    ]
   },
   {
     "category": "symbols",
@@ -38152,7 +38222,9 @@
     },
     "name": "digit eight",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "eight"
+    ]
   },
   {
     "category": "symbols",
@@ -38163,7 +38235,9 @@
     },
     "name": "digit seven",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "seven"
+    ]
   },
   {
     "category": "symbols",
@@ -38174,7 +38248,9 @@
     },
     "name": "digit six",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "six"
+    ]
   },
   {
     "category": "symbols",
@@ -38185,7 +38261,9 @@
     },
     "name": "digit five",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "five"
+    ]
   },
   {
     "category": "symbols",
@@ -38196,7 +38274,9 @@
     },
     "name": "digit four",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "four"
+    ]
   },
   {
     "category": "symbols",
@@ -38207,7 +38287,9 @@
     },
     "name": "digit three",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "three"
+    ]
   },
   {
     "category": "symbols",
@@ -38218,7 +38300,9 @@
     },
     "name": "digit two",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "two"
+    ]
   },
   {
     "category": "symbols",
@@ -38229,7 +38313,9 @@
     },
     "name": "digit one",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "one"
+    ]
   },
   {
     "category": "symbols",
@@ -38240,7 +38326,9 @@
     },
     "name": "digit zero",
     "skinTone": false,
-    "tags": []
+    "tags": [
+      "zero"
+    ]
   },
   {
     "category": "people",
@@ -38296,7 +38384,6 @@
       "woman",
       "man",
       "boy",
-      "man, woman, boy",
       "family"
     ]
   },
@@ -38314,7 +38401,6 @@
       "man",
       "love",
       "couple",
-      "woman, man",
       "couple with heart"
     ]
   },
@@ -38331,7 +38417,6 @@
       "woman",
       "man",
       "couple",
-      "woman, man",
       "kiss"
     ]
   },
