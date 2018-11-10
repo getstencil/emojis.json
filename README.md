@@ -7,3 +7,6 @@ Here's the breakdown of what's included in this document:
 - `name` the name of the emoji
 - `skinTone` the skin tone of the emoji, or `false` if skin tone isn't relevant
 - `tags` an array of tags for the emoji
+
+## Note
+I've since stumbled on [Cal Henderson](https://github.com/iamcal)'s amazing [emoji-data](https://github.com/iamcal/emoji-data) library. Will likely use it to consolidate the data I want, and keep this one going so that it's in the format [Stencil](https://getstencil.com/) likes :)
